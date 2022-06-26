@@ -1,7 +1,7 @@
 // include your directories
 #include <iostream>
 
-// you can choose to use this, i do not recommend to (but its easier to learn in the start.)
+// you can choose to use this, i do not recommend to (but its easier to learn in the beginning.)
 using namespace std;
 
 // lets say you want to start with the harder part, you can do this instead
